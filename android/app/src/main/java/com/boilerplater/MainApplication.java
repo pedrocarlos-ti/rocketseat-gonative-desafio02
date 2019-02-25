@@ -1,4 +1,4 @@
-package com.boilerplater;
+package com.gonative02;
 
 import android.app.Application;
 
